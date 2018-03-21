@@ -138,6 +138,6 @@ xlrd==0.9.4
 XlsxWriter==0.7.7
 xlwt==1.0.0
 xmltodict==0.10.1
-nltk==3.2.5
+#nltk==3.2.5
 biopython==1.70
-six==1.11.0
+#six==1.11.0
