@@ -2,3 +2,4 @@ numpy==1.14.2
 nltk==3.2.5
 pandas==0.22.0
 biopython==1.70
+pyldavis==2.1.1
